@@ -1,4 +1,4 @@
-package com.example.savin_pc.myapplication;
+package com.example.savin_pc.json;
 
 import org.junit.Test;
 

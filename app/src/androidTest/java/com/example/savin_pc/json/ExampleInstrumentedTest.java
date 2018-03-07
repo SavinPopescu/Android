@@ -1,4 +1,4 @@
-package com.example.savin_pc.myapplication;
+package com.example.savin_pc.json;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.savin_pc.myapplication", appContext.getPackageName());
+        assertEquals("com.example.savin_pc.json", appContext.getPackageName());
     }
 }
